@@ -1,0 +1,2 @@
+# .exe_workshop
+basics
